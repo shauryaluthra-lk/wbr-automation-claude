@@ -57,4 +57,4 @@ The first version of the solution is already implemented and operational, with u
 4) Access **Latest WBR creation** chat from the chat section 
 5) Ask Claude to connect to the required Power BI dashboards.
 6) A browser window will open. Sign in using your Power BI credentials to authorize access.
-7) Once connected, ask Claude to generate the latest WBR using the prompts defined in the **prompt.txt** file.
+7) Once connected, ask Claude to generate the latest WBR using the prompts defined in the **prompt** file.
